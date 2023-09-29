@@ -1,4 +1,4 @@
 # Palindrome String
 
 
-## check if string is palindrome 
+### check if string is palindrome 
